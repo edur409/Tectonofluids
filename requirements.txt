@@ -1,0 +1,6 @@
+numpy==1.14.3
+scipy==1.1.0
+pandas==0.25.1
+matplotlib==2.2.2
+ipywidgets==7.2.1
+watermark==2.0.2
